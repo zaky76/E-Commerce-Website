@@ -31,6 +31,7 @@
         <span class="sr-only">Next</span>
         </a>   
         <h1>Zaky Hossain</h1>
+        <p>Zaky Vaiya</p>
     </section>
 @endif
 
