@@ -30,6 +30,10 @@
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next Button</span>
         </a>
+
+         <p>Hello Zaky for Pull</p>   
+
+        
     </section>
 @endif
 
